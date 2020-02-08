@@ -3,9 +3,9 @@
 Pasos basicos de GIT.
 
 * git init: inicia un repositoriro en mi computador
-* git add: realiza cambios en el archivo.
+* git add. : realiza cambios en el archivo.
 * git commit: identifica informacion realizada
-* git push: acutaliza informacion agegada 
+* git push: acutaliza informacion agregada 
 
 # MANUAL DE TERMINAL. 
 
